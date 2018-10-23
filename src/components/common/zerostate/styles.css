@@ -1,0 +1,12 @@
+
+/* Zero State CSS */
+
+.center-all {
+    /* background-color: #282c34; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ccc;
+    height: 100%;
+}
